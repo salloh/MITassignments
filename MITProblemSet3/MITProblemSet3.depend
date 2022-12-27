@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1672121032 source:c:\users\nsl\desktop\new folder\mitproblemset3\main.cpp
+	"geometry.h"
+	<iostream>
+
+1672120314 c:\users\nsl\desktop\new folder\mitproblemset3\geometry.h
+	<cstdlib>
+	<iostream>
+
+1672121058 source:c:\users\nsl\desktop\new folder\mitproblemset3\geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1672121058 source:c:\users\nsl\desktop\mitproblemset3\geometry.cpp
+	"geometry.h"
+	<cmath>
+
+1672120314 c:\users\nsl\desktop\mitproblemset3\geometry.h
+	<cstdlib>
+	<iostream>
+
